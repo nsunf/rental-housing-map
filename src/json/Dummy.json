@@ -1,0 +1,297 @@
+[
+  {
+    "id": "1",
+    "type": "다가구 가형",
+    "autonomous": "강남구",
+    "dong": "역삼동",
+    "address": "서울특별시 강남구 언주로69길 27-6 역삼파크빌 (역삼동 778-3)",
+    "roomNumber": "0202",
+    "area": "29.32",
+    "securityDeposit": "27,720,000",
+    "rent": "361,100",
+    "station": "한티역",
+    "distFromStation": "0.97",
+    "elevator": "무",
+    "year": "2020",
+    "firstAssignment": "○",
+    "jurisdiction": "강남서초",
+    "geocode": {
+        "roadAddress": "서울특별시 강남구 언주로69길 27-6 역삼파크빌",
+        "jibunAddress": "서울특별시 강남구 역삼동 778-3 역삼파크빌",
+        "englishAddress": "27-6, Eonju-ro 69-gil, Gangnam-gu, Seoul, Republic of Korea",
+        "addressElements": [
+            {
+                "types": [
+                    "SIDO"
+                ],
+                "longName": "서울특별시",
+                "shortName": "서울특별시",
+                "code": ""
+            },
+            {
+                "types": [
+                    "SIGUGUN"
+                ],
+                "longName": "강남구",
+                "shortName": "강남구",
+                "code": ""
+            },
+            {
+                "types": [
+                    "DONGMYUN"
+                ],
+                "longName": "역삼동",
+                "shortName": "역삼동",
+                "code": ""
+            },
+            {
+                "types": [
+                    "RI"
+                ],
+                "longName": "",
+                "shortName": "",
+                "code": ""
+            },
+            {
+                "types": [
+                    "ROAD_NAME"
+                ],
+                "longName": "언주로69길",
+                "shortName": "언주로69길",
+                "code": ""
+            },
+            {
+                "types": [
+                    "BUILDING_NUMBER"
+                ],
+                "longName": "27-6",
+                "shortName": "27-6",
+                "code": ""
+            },
+            {
+                "types": [
+                    "BUILDING_NAME"
+                ],
+                "longName": "역삼파크빌",
+                "shortName": "역삼파크빌",
+                "code": ""
+            },
+            {
+                "types": [
+                    "LAND_NUMBER"
+                ],
+                "longName": "778-3",
+                "shortName": "778-3",
+                "code": ""
+            },
+            {
+                "types": [
+                    "POSTAL_CODE"
+                ],
+                "longName": "06226",
+                "shortName": "06226",
+                "code": ""
+            }
+        ],
+        "x": "127.0432007",
+        "y": "37.4956460",
+        "distance": 0
+    }
+}, {
+  "id": "315",
+  "type": "다가구 나형",
+  "autonomous": "금천구",
+  "dong": "시흥동",
+  "address": "서울특별시 금천구 금하로23나길 32 아이빌5차 (시흥동 827-18)",
+  "roomNumber": "0203",
+  "area": "50.28",
+  "securityDeposit": "26,100,000",
+  "rent": "340,000",
+  "station": "금천구청역",
+  "distFromStation": "1.7",
+  "elevator": "유",
+  "year": "2020",
+  "firstAssignment": "○",
+  "jurisdiction": "구로금천",
+  "geocode": {
+      "roadAddress": "서울특별시 금천구 금하로23나길 32 아이빌5차",
+      "jibunAddress": "서울특별시 금천구 시흥동 827-18 아이빌5차",
+      "englishAddress": "32, Geumha-ro 23na-gil, Geumcheon-gu, Seoul, Republic of Korea",
+      "addressElements": [
+          {
+              "types": [
+                  "SIDO"
+              ],
+              "longName": "서울특별시",
+              "shortName": "서울특별시",
+              "code": ""
+          },
+          {
+              "types": [
+                  "SIGUGUN"
+              ],
+              "longName": "금천구",
+              "shortName": "금천구",
+              "code": ""
+          },
+          {
+              "types": [
+                  "DONGMYUN"
+              ],
+              "longName": "시흥동",
+              "shortName": "시흥동",
+              "code": ""
+          },
+          {
+              "types": [
+                  "RI"
+              ],
+              "longName": "",
+              "shortName": "",
+              "code": ""
+          },
+          {
+              "types": [
+                  "ROAD_NAME"
+              ],
+              "longName": "금하로23나길",
+              "shortName": "금하로23나길",
+              "code": ""
+          },
+          {
+              "types": [
+                  "BUILDING_NUMBER"
+              ],
+              "longName": "32",
+              "shortName": "32",
+              "code": ""
+          },
+          {
+              "types": [
+                  "BUILDING_NAME"
+              ],
+              "longName": "아이빌5차",
+              "shortName": "아이빌5차",
+              "code": ""
+          },
+          {
+              "types": [
+                  "LAND_NUMBER"
+              ],
+              "longName": "827-18",
+              "shortName": "827-18",
+              "code": ""
+          },
+          {
+              "types": [
+                  "POSTAL_CODE"
+              ],
+              "longName": "08574",
+              "shortName": "08574",
+              "code": ""
+          }
+      ],
+      "x": "126.9105370",
+      "y": "37.4519383",
+      "distance": 0
+  }
+}, {
+  "id": "485",
+  "type": "원룸",
+  "autonomous": "송파구",
+  "dong": "삼전동",
+  "address": "서울특별시 송파구 백제고분로28길 23-9 포엠빌 (삼전동 64-6)",
+  "roomNumber": "0203",
+  "area": "27.72",
+  "securityDeposit": "23,860,000",
+  "rent": "245,900",
+  "station": "삼전역",
+  "distFromStation": "0.65",
+  "elevator": "무",
+  "year": "2021",
+  "firstAssignment": "○",
+  "jurisdiction": "송파",
+  "geocode": {
+      "roadAddress": "서울특별시 송파구 백제고분로28길 23-9 포엠빌",
+      "jibunAddress": "서울특별시 송파구 삼전동 64-6 포엠빌",
+      "englishAddress": "23-9, Baekjegobun-ro 28-gil, Songpa-gu, Seoul, Republic of Korea",
+      "addressElements": [
+          {
+              "types": [
+                  "SIDO"
+              ],
+              "longName": "서울특별시",
+              "shortName": "서울특별시",
+              "code": ""
+          },
+          {
+              "types": [
+                  "SIGUGUN"
+              ],
+              "longName": "송파구",
+              "shortName": "송파구",
+              "code": ""
+          },
+          {
+              "types": [
+                  "DONGMYUN"
+              ],
+              "longName": "삼전동",
+              "shortName": "삼전동",
+              "code": ""
+          },
+          {
+              "types": [
+                  "RI"
+              ],
+              "longName": "",
+              "shortName": "",
+              "code": ""
+          },
+          {
+              "types": [
+                  "ROAD_NAME"
+              ],
+              "longName": "백제고분로28길",
+              "shortName": "백제고분로28길",
+              "code": ""
+          },
+          {
+              "types": [
+                  "BUILDING_NUMBER"
+              ],
+              "longName": "23-9",
+              "shortName": "23-9",
+              "code": ""
+          },
+          {
+              "types": [
+                  "BUILDING_NAME"
+              ],
+              "longName": "포엠빌",
+              "shortName": "포엠빌",
+              "code": ""
+          },
+          {
+              "types": [
+                  "LAND_NUMBER"
+              ],
+              "longName": "64-6",
+              "shortName": "64-6",
+              "code": ""
+          },
+          {
+              "types": [
+                  "POSTAL_CODE"
+              ],
+              "longName": "05590",
+              "shortName": "05590",
+              "code": ""
+          }
+      ],
+      "x": "127.0920808",
+      "y": "37.5008054",
+      "distance": 0
+  }
+}
+]
